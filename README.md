@@ -24,7 +24,7 @@
 Файл .ipynb рассчитан на Google Colab с GPU T4.
 
 Как запустить:
-1. Открыть `emotion_recognition_coursework.ipynb` в Google Colab.
+1. Открыть файл в формате `*.ipynb` из репозитория в Google Colab.
 2. Выбрать GPU: `Runtime -> Change runtime type -> T4 GPU`.
 3. Загрузить `kaggle.json` через ячейку загрузки.
 4. Последовательно выполнить ячейки ноутбука.
